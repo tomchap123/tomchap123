@@ -1,0 +1,4 @@
+﻿  CIS023_F2018_HW15 Tom Chaparas.cpp
+f:\cis023\cis023_f2018_hw15 tom chaparas\cis023_f2018_hw15 tom chaparas\cis023_f2018_hw15 tom chaparas.cpp(152): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+  CIS023_F2018_HW15 Tom Chaparas.vcxproj -> F:\CIS023\CIS023_F2018_HW15 Tom Chaparas\Debug\CIS023_F2018_HW15 Tom Chaparas.exe
+  CIS023_F2018_HW15 Tom Chaparas.vcxproj -> F:\CIS023\CIS023_F2018_HW15 Tom Chaparas\Debug\CIS023_F2018_HW15 Tom Chaparas.pdb (Full PDB)
